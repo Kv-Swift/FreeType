@@ -1,1 +1,1 @@
-# freetype
+# FreetypeCore
