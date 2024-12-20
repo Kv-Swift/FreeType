@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libfreetype",
-            url: "https://github.com/kivyswiftlink/FreeType/releases/download/311.0.6/libfreetype.zip",
-            checksum: "b99a5de87d08f0d74da156da339842992c89cd6ab7f45ec411b85a810e3b7c1c"
+            url: "https://github.com/kivyswiftlink/FreeType/releases/download/311.0.5/libfreetype.zip",
+            checksum: "0c933bb60aea4d20acc83d0557bc59ec09b16ef11cf3beb199c312bc10804499"
         )
     ]
 )
